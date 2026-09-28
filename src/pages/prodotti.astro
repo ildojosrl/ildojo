@@ -2,6 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ProductCard from "../components/ProductCard.astro";
 import prodotti from "../data/products.json";
+import shopInfo from "../data/shopinfo.json";
 
 // Estraggo i giochi unici per popolare il select
 const giochiUnici = [...new Set(prodotti.map((p) => p.gioco))].sort();
@@ -17,7 +18,14 @@ const giochiUnici = [...new Set(prodotti.map((p) => p.gioco))].sort();
             Sfoglia il catalogo: booster box, mazzi tematici, carte singole e
             accessori per i tuoi giochi preferiti.
         </p>
-
+        <div>
+            <p class="text-gray-400 mb-12">
+                Per le carte singole, puoi anche consultare il nostro negozio su CardMarket:
+            </p>
+             <button class="bg-blue-600 hover:bg-blue-500 text-white font-semibold py-2 px-4 rounded-full text-lg transition shadow-lg shadow-blue-600/30 mb-4">
+                <a href={shopInfo[0].cardmarket} target="_blank" class="hover:text-blue-300">CardMarket</a>
+            </button>        
+        </div>
         <!-- Barra filtri/ordinamento -->
         <div
             class="flex flex-wrap gap-4 items-center mb-8 p-4 rounded-lg bg-gray-800/50"
