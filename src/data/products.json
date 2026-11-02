@@ -1,7 +1,7 @@
 [
     {
         "id": 16,
-        "nome": "OP13 Carrying on his Will Booster Pack",
+        "nome": "OP13 Carrying on his Will - Booster Pack",
         "gioco": "One Piece TCG",
         "immagine": "https://www.tcgtraders.eu/wp-content/uploads/2025/11/op13-621x1024.jpeg",
         "descrizione": "Contenuto: 12 carte.",
@@ -11,7 +11,7 @@
     },
      {
         "id": 17,
-        "nome": "OP17 The World's Strongest Warriors Booster Pack",
+        "nome": "OP17 The World's Strongest Warriors - Booster Pack",
         "gioco": "One Piece TCG",
         "immagine": "https://asia-en.onepiece-cardgame.com/onepiececg/bccard/asia-en/product/2026/08/06/26szwqc6cH1rtAcj/mv.webp",
         "descrizione": "Contenuto: 12 carte.",
@@ -21,11 +21,41 @@
     },
      {
         "id": 18,
-        "nome": "EB03 Heroines Edition Booster Pack",
+        "nome": "EB03 Heroines Edition - Booster Pack",
         "gioco": "One Piece TCG",
         "immagine": "https://www.tcgtraders.eu/wp-content/uploads/2026/03/eb03-1024x1024.jpg",
         "descrizione": "Contenuto: 12 carte.",
         "prezzo": 8.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 19,
+        "nome": "MS01 Welcome to Night City - Booster Pack",
+        "gioco": "Cyberpunk TCG",
+        "immagine": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSraYHftXZpdjJAoIaUNDjpUJPYMb7Q8zp9HtZGP6-3A&s=10",
+        "descrizione": "Contenuto: 12 carte.",
+        "prezzo": 7.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 20,
+        "nome": "Set Sail Deck Set",
+        "gioco": "One Piece TCG",
+        "immagine": "https://www.wumpa-store.com/wp-content/uploads/2026/09/Tavola-da-disegno2-28.webp",
+        "descrizione": "Contenuto: 2 mazzi precostruiti da 51 carte ciascuno, 10 DON!! per mazzo, 1 Booster pack OP17, 2 deck case, 2 guide book e 1 playsheet per 2 giocatori.",
+        "prezzo": 35.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 21,
+        "nome": "Secret Garden Limited Gift Box",
+        "gioco": "Riftbound TCG",
+        "immagine": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkFNtGO6fs5HZJjFcQ2CiqYHbqRisdg4jI74Fd70FVw&s=10",
+        "descrizione": "Contenuto: 3 carte alt art, 5 double-sided alt art tokens, 2 pacchetti sleeve a tema da 60 pezzi ciascuno, 3 Unleashed booster pack, 2 cartoline full art e 1 Premium Box illustrato.",
+        "prezzo": 150.00,
         "limitato": true,
         "esaurito": false
     },
@@ -57,7 +87,7 @@
         "descrizione": "Mazzo costruito x1 (51 carte), Carte DON!! x10, Tabellone di gioco x1, Pacchetto Booster [OP-16] x1",
         "prezzo": 20.00,
         "limitato": true,
-        "esaurito": false
+        "esaurito": true
     },    
      {
         "id": 4,
