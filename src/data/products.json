@@ -59,6 +59,26 @@
         "limitato": true,
         "esaurito": false
     },
+     {
+        "id": 22,
+        "nome": "Reality Fracture Booster Pack Eng",
+        "gioco": "Magic TCG",
+        "immagine": "https://cardcosmos.de/cdn/shop/articles/Titelbild_Blogartikel_-_MTG_Reality_Fracture_8f785a38-e0b4-4fba-a32c-b948a4393f96.png?v=1786020894&width=1500",
+        "descrizione": "Contenuto: 14 carte.",
+        "prezzo": 8.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 23,
+        "nome": "The Hobbit Booster Pack Ita",
+        "gioco": "Magic TCG",
+        "immagine": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/05/magic-the-gathering-the-hobbit-wizards-of-the-coast.jpg?w=1600&h=900&fit=crop",
+        "descrizione": "Contenuto: 14 carte.",
+        "prezzo": 8.00,
+        "limitato": true,
+        "esaurito": false
+    },
     {
         "id": 1,
         "nome": "Illustration Box Rayleigh/Shakuyaku",
