@@ -99,6 +99,56 @@
         "limitato": true,
         "esaurito": false
     },
+     {
+        "id": 28,
+        "nome": "ST10 Generation Pulse - Starter Deck",
+        "gioco": "Gundam TCG",
+        "immagine": "https://www.gundam-gcg.com/gcg/bccard/en/news/2026/03/17/26lezuHwz6ERrOTA/ST10_thumbnail.webp",
+        "descrizione": "Contenuto: 1 deck precostruito da 50 carte, 10 resource cards, 1 paper damage counter, 2 token cards, 1 bonus pack, 1 rule/playsheet.",
+        "prezzo": 20.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 24,
+        "nome": "ST11 Aquatic Assault - Starter Deck",
+        "gioco": "Gundam TCG",
+        "immagine": "https://gundamlab.com/cdn/shop/articles/BLOG_POST_7.jpg?v=1785149032&width=1100",
+        "descrizione": "Contenuto: 1 deck precostruito da 50 carte, 10 resource cards, 1 paper damage counter, 2 token cards, 1 bonus pack, 1 rule/playsheet.",
+        "prezzo": 20.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 25,
+        "nome": "ST12 Raging Onslaught - Starter Deck",
+        "gioco": "Gundam TCG",
+        "immagine": "https://gundamlab.com/cdn/shop/articles/BLOG_POST_7.jpg?v=1785149032&width=1100",
+        "descrizione": "Contenuto: 1 deck precostruito da 50 carte, 10 resource cards, 1 paper damage counter, 2 token cards, 1 bonus pack, 1 rule/playsheet.",
+        "prezzo": 20.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 26,
+        "nome": "ST13 Silent Barrage - Starter Deck",
+        "gioco": "Gundam TCG",
+        "immagine": "https://gundamlab.com/cdn/shop/articles/BLOG_POST_7.jpg?v=1785149032&width=1100",
+        "descrizione": "Contenuto: 1 deck precostruito da 50 carte, 10 resource cards, 1 paper damage counter, 2 token cards, 1 bonus pack, 1 rule/playsheet.",
+        "prezzo": 20.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 27,
+        "nome": "ST14 Heavy Dominion - Starter Deck",
+        "gioco": "Gundam TCG",
+        "immagine": "https://gundamlab.com/cdn/shop/articles/BLOG_POST_7.jpg?v=1785149032&width=1100",
+        "descrizione": "Contenuto: 1 deck precostruito da 50 carte, 10 resource cards, 1 paper damage counter, 2 token cards, 1 bonus pack, 1 rule/playsheet.",
+        "prezzo": 20.00,
+        "limitato": true,
+        "esaurito": false
+    },
     {
         "id": 1,
         "nome": "Illustration Box Rayleigh/Shakuyaku",

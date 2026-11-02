@@ -5,7 +5,8 @@
     "gioco": "Riftbound",
     "data": "2024-07-15  18:00",
     "immagine": "https://placehold.co/400x300/3b82f6/white?text=Pre+-+Rift+Event",
-    "descrizione": "Evento pre release per i fan di Riftbound, con anteprime esclusive e premi unici."
+    "descrizione": "Evento pre release per i fan di Riftbound, con anteprime esclusive e premi unici.",
+    "stato":"concluso"
   },
   {
     "id": 4,
@@ -13,7 +14,8 @@
     "gioco": "One Piece",
     "data": "2026-08-22  15:30",
     "immagine": "https://www.lafumetteria.it/thumb/1000/148165",
-    "descrizione": ""
+    "descrizione": "",
+    "stato":"concluso"
   },
   {
     "id": 5,
@@ -22,6 +24,7 @@
     "data": "20-08-2026  21:30",
     "immagine": "https://placehold.co/400x300/3b82f6/white?text=Lega+-+Riftbound",
     "descrizione": "",
-    "link": "https://locator.riftbound.uvsgames.com/events/845351"
+    "link": "https://locator.riftbound.uvsgames.com/events/845351",
+    "stato":"concluso"
   }
 ]
