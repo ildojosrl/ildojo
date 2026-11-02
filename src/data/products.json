@@ -27,7 +27,7 @@
         "descrizione": "Contenuto: 12 carte.",
         "prezzo": 8.00,
         "limitato": true,
-        "esaurito": true
+        "esaurito": false
     },
     {
         "id": 1,
