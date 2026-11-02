@@ -41,7 +41,7 @@
     },
      {
         "id": 20,
-        "nome": "Set Sail Deck Set",
+        "nome": "Set Sail - Deck Set",
         "gioco": "One Piece TCG",
         "immagine": "https://www.gametraderschermside.com.au/cdn/shop/files/BJP2866723-1__05724.jpg?v=1789892656",
         "descrizione": "Contenuto: 2 mazzi precostruiti da 51 carte ciascuno, 10 DON!! per mazzo, 1 Booster pack OP17, 2 deck case, 2 guide book e 1 playsheet per 2 giocatori.",
@@ -51,7 +51,7 @@
     },
      {
         "id": 21,
-        "nome": "Secret Garden Limited Gift Box",
+        "nome": "Secret Garden - Limited Gift Box",
         "gioco": "Riftbound TCG",
         "immagine": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkFNtGO6fs5HZJjFcQ2CiqYHbqRisdg4jI74Fd70FVw&s=10",
         "descrizione": "Contenuto: 3 carte alt art, 5 double-sided alt art tokens, 2 pacchetti sleeve a tema da 60 pezzi ciascuno, 3 Unleashed booster pack, 2 cartoline full art e 1 Premium Box illustrato.",
@@ -60,8 +60,28 @@
         "esaurito": false
     },
      {
+        "id": 24,
+        "nome": "Radiance - Evelynn vs Seraphine Showdown Decks",
+        "gioco": "Riftbound TCG",
+        "immagine": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0d895d9d1ec8446fd14649933ff8d7efe1972cc4-1920x1080.jpg?accountingTag=RB&fm=jpg&q=80&w=1920",
+        "descrizione": "Contenuto: 2 deck precostruiti da 56 carte ciascuno a tema Evelynn e Seraphine, 2 Radiance booster pack, 2 playsheet.",
+        "prezzo": 35.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 25,
+        "nome": "Vendetta - Zed vs Shen Showdown Decks",
+        "gioco": "Riftbound TCG",
+        "immagine": "https://riftdaily.com/wp-content/uploads/Riftbound-TCG-Endetta-Set-4-Key-Art-1.webp",
+        "descrizione": "Contenuto: 2 deck precostruiti da 56 carte ciascuno a tema Zed e Shen, 2 Vendetta booster pack, 2 playsheet.",
+        "prezzo": 35.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
         "id": 22,
-        "nome": "Reality Fracture Booster Pack Eng",
+        "nome": "Reality Fracture - Booster Pack Eng",
         "gioco": "Magic TCG",
         "immagine": "https://cardcosmos.de/cdn/shop/articles/Titelbild_Blogartikel_-_MTG_Reality_Fracture_8f785a38-e0b4-4fba-a32c-b948a4393f96.png?v=1786020894&width=1500",
         "descrizione": "Contenuto: 14 carte.",
@@ -71,7 +91,7 @@
     },
      {
         "id": 23,
-        "nome": "The Hobbit Booster Pack Ita",
+        "nome": "The Hobbit - Booster Pack Ita",
         "gioco": "Magic TCG",
         "immagine": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/05/magic-the-gathering-the-hobbit-wizards-of-the-coast.jpg?w=1600&h=900&fit=crop",
         "descrizione": "Contenuto: 14 carte.",
