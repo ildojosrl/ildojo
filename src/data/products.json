@@ -1,5 +1,35 @@
 [
     {
+        "id": 16,
+        "nome": "OP13 Carrying on his Will Booster Pack",
+        "gioco": "One Piece TCG",
+        "immagine": "https://www.tcgtraders.eu/wp-content/uploads/2025/11/op13-621x1024.jpeg",
+        "descrizione": "Contenuto: 12 carte.",
+        "prezzo": 10.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 17,
+        "nome": "OP17 The World's Strongest Warriors Booster Pack",
+        "gioco": "One Piece TCG",
+        "immagine": "https://baruzcard.it/products/one-piece-card-game-op17-the-worlds-strongest-warriors-booster-box-24-buste-eng?srsltid=AYCX9vIQSUX3dXphiCsWwWoHz3u5-YdlUJlo4pL9FnlGF8SjlL63cDZW",
+        "descrizione": "Contenuto: 12 carte.",
+        "prezzo": 9.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 18,
+        "nome": "EB03 Heroines Edition Booster Pack",
+        "gioco": "One Piece TCG",
+        "immagine": "https://product-images.s3.cardmarket.com/1622/867330/867330.jpg",
+        "descrizione": "Contenuto: 12 carte.",
+        "prezzo": 8.00,
+        "limitato": true,
+        "esaurito": true
+    },
+    {
         "id": 1,
         "nome": "Illustration Box Rayleigh/Shakuyaku",
         "gioco": "One Piece TCG",
