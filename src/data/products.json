@@ -149,6 +149,26 @@
         "limitato": true,
         "esaurito": false
     },
+     {
+        "id": 28,
+        "nome": "Ultra PRO - Mega Charizard X Alcove Flip Deck Box",
+        "gioco": "Accessori",
+        "immagine": "https://drawstep.com/cdn/shop/files/16734_PKM_CharizardXY_AlcoveFlip_Angle.webp?v=1791570413",
+        "descrizione": "Contenuto: 1 porta deck da 100 carte.",
+        "prezzo": 35.00,
+        "limitato": true,
+        "esaurito": false
+    },
+     {
+        "id": 29,
+        "nome": "Ultra PRO - Mega Charizard Y Alcove Flip Deck Box",
+        "gioco": "Accessori",
+        "immagine": "https://c1-ebgames.eb-cdn.com.au/merchandising/images/packshots/c358a1e1ba21452aa66712daa5185c57_Large.jpg",
+        "descrizione": "Contenuto: 1 porta deck da 100 carte.",
+        "prezzo": 35.00,
+        "limitato": true,
+        "esaurito": false
+    },
     {
         "id": 1,
         "nome": "Illustration Box Rayleigh/Shakuyaku",
